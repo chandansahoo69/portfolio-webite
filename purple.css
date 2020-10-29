@@ -1,0 +1,11 @@
+:root{
+    --mainText: #fff;
+    --secondaryText: #eeeeee;
+    --borderColor: #1d1520;
+    --maincolor: #46344E;
+    --secondaryColor: #382a3f;
+    --themeBorder: #fff;
+    --previewBg: rgba(29,21,32,0.8);
+    --perviewShadow: #2b202f;
+    --btnColor: #8534a3;
+}
